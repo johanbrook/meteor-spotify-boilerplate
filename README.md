@@ -29,3 +29,5 @@ npm install # Install dependencies
 npm start # Start the Meteor app
 # Visit localhost:3000 in browser and login with Spotify!
 ```
+
+ <3 <3 <3 @johanbrook <3 <3 <3
